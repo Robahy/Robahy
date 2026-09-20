@@ -6,7 +6,7 @@
 
 # Status
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robahy&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=alan&langs_count=6&theme=dark_github)
 
 ![status2](https://streak-stats.demolab.com/?user=robahy&theme=dark&hide_border=false)
 
