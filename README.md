@@ -6,9 +6,13 @@
 
 # Status
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=alan&langs_count=6&theme=dark_github)
-
-![status2](https://streak-stats.demolab.com/?user=robahy&theme=dark&hide_border=false)
+<div align="center">
+<div>
+<img width=400px alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api/wakatime?username=alan&langs_count=6&theme=dark_github" /> 
+<span>&nbsp;</span>
+<img width=400px alt="status2" src="https://streak-stats.demolab.com/?user=robahy&theme=dark&hide_border=false"/>
+</div>
 
 ![status](https://github-readme-stats.shion.dev/api?username=robahy&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+</div>
 
